@@ -1,0 +1,16 @@
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\bin\Debug\netcoreapp3.1\AgendaContatos.exe
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\bin\Debug\netcoreapp3.1\AgendaContatos.deps.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\bin\Debug\netcoreapp3.1\AgendaContatos.runtimeconfig.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\bin\Debug\netcoreapp3.1\AgendaContatos.runtimeconfig.dev.json
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\bin\Debug\netcoreapp3.1\AgendaContatos.dll
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\bin\Debug\netcoreapp3.1\AgendaContatos.pdb
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.csproj.AssemblyReference.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.frmAgendaDeContatos.resources
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.csproj.GenerateResource.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.AssemblyInfoInputs.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.AssemblyInfo.cs
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.dll
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.pdb
+C:\Users\13a\Desktop\Bckp Junior\TI360\C#\VisualStudio\AgendaContatos\obj\Debug\netcoreapp3.1\AgendaContatos.genruntimeconfig.cache

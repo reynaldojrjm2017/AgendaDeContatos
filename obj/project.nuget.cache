@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qse7Gy4MyLIkzOO116TiOs7hPfzU3uoPN8Eouic4KYZQTK89yO3YS/qlo/RaXuaODnrK12gicL+nypNlDU3QDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13a\\Desktop\\Bckp Junior\\TI360\\C#\\VisualStudio\\AgendaContatos\\AgendaContatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
