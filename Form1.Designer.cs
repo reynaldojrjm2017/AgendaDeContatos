@@ -32,9 +32,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txbNome = new System.Windows.Forms.TextBox();
+            this.txbEmail = new System.Windows.Forms.TextBox();
+            this.txbTelefone = new System.Windows.Forms.TextBox();
             this.btnIncluir = new System.Windows.Forms.Button();
             this.btnAlterar = new System.Windows.Forms.Button();
             this.btnExcluir = new System.Windows.Forms.Button();
@@ -78,26 +78,26 @@
             this.label3.TabIndex = 3;
             this.label3.Text = "Telefone";
             // 
-            // textBox1
+            // txbNome
             // 
-            this.textBox1.Location = new System.Drawing.Point(293, 6);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(495, 23);
-            this.textBox1.TabIndex = 4;
+            this.txbNome.Location = new System.Drawing.Point(293, 6);
+            this.txbNome.Name = "txbNome";
+            this.txbNome.Size = new System.Drawing.Size(495, 23);
+            this.txbNome.TabIndex = 4;
             // 
-            // textBox2
+            // txbEmail
             // 
-            this.textBox2.Location = new System.Drawing.Point(293, 30);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(495, 23);
-            this.textBox2.TabIndex = 5;
+            this.txbEmail.Location = new System.Drawing.Point(293, 30);
+            this.txbEmail.Name = "txbEmail";
+            this.txbEmail.Size = new System.Drawing.Size(495, 23);
+            this.txbEmail.TabIndex = 5;
             // 
-            // textBox3
+            // txbTelefone
             // 
-            this.textBox3.Location = new System.Drawing.Point(293, 54);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(495, 23);
-            this.textBox3.TabIndex = 6;
+            this.txbTelefone.Location = new System.Drawing.Point(293, 54);
+            this.txbTelefone.Name = "txbTelefone";
+            this.txbTelefone.Size = new System.Drawing.Size(495, 23);
+            this.txbTelefone.TabIndex = 6;
             // 
             // btnIncluir
             // 
@@ -136,6 +136,7 @@
             this.btnSalvar.TabIndex = 10;
             this.btnSalvar.Text = "Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
             // btnCancelar
             // 
@@ -157,15 +158,16 @@
             this.Controls.Add(this.btnExcluir);
             this.Controls.Add(this.btnAlterar);
             this.Controls.Add(this.btnIncluir);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txbTelefone);
+            this.Controls.Add(this.txbEmail);
+            this.Controls.Add(this.txbNome);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lbxContatos);
             this.Name = "frmAgendaDeContatos";
             this.Text = "Agenda de Contatos";
+            this.Load += new System.EventHandler(this.frmAgendaDeContatos_Load);
             this.Shown += new System.EventHandler(this.frmAgendaDeContatos_Shown);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -178,9 +180,9 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txbNome;
+        private System.Windows.Forms.TextBox txbEmail;
+        private System.Windows.Forms.TextBox txbTelefone;
         private System.Windows.Forms.Button btnIncluir;
         private System.Windows.Forms.Button btnAlterar;
         private System.Windows.Forms.Button btnExcluir;
